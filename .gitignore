@@ -8,7 +8,6 @@ databases/
 *.db-wal
 
 # Конфигурация (содержит токены)
-config.js
 
 # Логи
 *.log
