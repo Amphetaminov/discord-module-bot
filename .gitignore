@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Базы данных
+databases/
+*.db
+*.db-shm
+*.db-wal
+
+# Конфигурация (содержит токены)
+config.js
+
+# Логи
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Временные файлы
+temp/
+tmp/
+

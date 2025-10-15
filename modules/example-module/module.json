@@ -1,0 +1,8 @@
+{
+    "name": "example-module",
+    "version": "1.0.0",
+    "description": "Пример модуля для демонстрации работы системы",
+    "author": "Template",
+    "dependencies": []
+}
+
